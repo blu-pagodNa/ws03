@@ -12,3 +12,6 @@
 # OS junk files
 Thumbs.db
 Desktop.ini
+
+# Database folders
+mysql-8.4/
